@@ -26,7 +26,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="897" y="-364"/>
+            <point key="canvasLocation" x="498" y="-473"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="etx-6A-K3J">
@@ -48,7 +48,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mzg-dS-VdG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="140" y="132.68365817091455"/>
+            <point key="canvasLocation" x="-404" y="80"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="eCm-QY-XYZ">
@@ -66,7 +66,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0Rn-gt-XZg" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="638" y="1157"/>
+            <point key="canvasLocation" x="1831" y="-475"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="nh8-QC-YYy">
@@ -92,7 +92,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6qX-nq-pcf" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2212" y="1188.7556221889056"/>
+            <point key="canvasLocation" x="1206" y="235"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="jbp-gT-Vc9">
@@ -110,7 +110,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JxW-pu-RGH" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="156" y="1230"/>
+            <point key="canvasLocation" x="2478" y="-475"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="rTT-1M-WYZ">
@@ -128,25 +128,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="exQ-Wh-Ab1" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1783" y="262"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="tR0-Br-7Yd">
-            <objects>
-                <viewController id="srT-st-rjr" customClass="ViewController" customModule="_019_ios_hw2" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="jg3-iA-PvQ">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <viewLayoutGuide key="safeArea" id="HlB-zg-txP"/>
-                    </view>
-                    <tabBarItem key="tabBarItem" title="" image="Search" id="Eiq-rz-nAK">
-                        <inset key="imageInsets" minX="0.0" minY="6" maxX="0.0" maxY="-6"/>
-                    </tabBarItem>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="l5w-Xf-cng" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1676" y="-440"/>
+            <point key="canvasLocation" x="1159" y="-474"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="p2c-yB-eww">
@@ -167,7 +149,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LLq-GW-gmp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1272.8" y="1188.7556221889056"/>
+            <point key="canvasLocation" x="497" y="236"/>
         </scene>
         <!--相片-->
         <scene sceneID="rRv-x6-ckV">
@@ -288,7 +270,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="n2t-2C-ydz" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2912.8000000000002" y="1188.7556221889056"/>
+            <point key="canvasLocation" x="1887" y="235"/>
         </scene>
     </scenes>
     <resources>
@@ -297,10 +279,10 @@
         <image name="Photo" width="22" height="23"/>
         <image name="Profile" width="20" height="21"/>
         <image name="Search" width="23" height="22"/>
-        <image name="arrow" width="416" height="375"/>
-        <image name="comment" width="187.5" height="187.5"/>
-        <image name="heart" width="409.60000610351562" height="409.60000610351562"/>
-        <image name="more" width="409.60000610351562" height="409.60000610351562"/>
+        <image name="arrow" width="277" height="250"/>
+        <image name="comment" width="250" height="250"/>
+        <image name="heart" width="170" height="170"/>
+        <image name="more" width="512" height="512"/>
         <image name="photo1" width="826" height="551"/>
         <image name="photo2" width="826" height="550"/>
         <image name="photo3" width="826" height="550"/>
